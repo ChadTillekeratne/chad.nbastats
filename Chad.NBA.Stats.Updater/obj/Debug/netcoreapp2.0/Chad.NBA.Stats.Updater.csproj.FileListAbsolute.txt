@@ -1,0 +1,13 @@
+C:\Users\chad\source\repos\Chad.NBA\Chad.NBA.Stats.Updater\bin\Debug\netcoreapp2.0\Chad.NBA.Stats.Updater.deps.json
+C:\Users\chad\source\repos\Chad.NBA\Chad.NBA.Stats.Updater\bin\Debug\netcoreapp2.0\Chad.NBA.Stats.Updater.runtimeconfig.json
+C:\Users\chad\source\repos\Chad.NBA\Chad.NBA.Stats.Updater\bin\Debug\netcoreapp2.0\Chad.NBA.Stats.Updater.runtimeconfig.dev.json
+C:\Users\chad\source\repos\Chad.NBA\Chad.NBA.Stats.Updater\bin\Debug\netcoreapp2.0\Chad.NBA.Stats.Updater.dll
+C:\Users\chad\source\repos\Chad.NBA\Chad.NBA.Stats.Updater\bin\Debug\netcoreapp2.0\Chad.NBA.Stats.Updater.pdb
+C:\Users\chad\source\repos\Chad.NBA\Chad.NBA.Stats.Updater\bin\Debug\netcoreapp2.0\Chad.NBA.Stats.dll
+C:\Users\chad\source\repos\Chad.NBA\Chad.NBA.Stats.Updater\bin\Debug\netcoreapp2.0\Chad.NBA.Stats.pdb
+C:\Users\chad\source\repos\Chad.NBA\Chad.NBA.Stats.Updater\obj\Debug\netcoreapp2.0\Chad.NBA.Stats.Updater.csprojResolveAssemblyReference.cache
+C:\Users\chad\source\repos\Chad.NBA\Chad.NBA.Stats.Updater\obj\Debug\netcoreapp2.0\Chad.NBA.Stats.Updater.csproj.CoreCompileInputs.cache
+C:\Users\chad\source\repos\Chad.NBA\Chad.NBA.Stats.Updater\obj\Debug\netcoreapp2.0\Chad.NBA.Stats.Updater.AssemblyInfoInputs.cache
+C:\Users\chad\source\repos\Chad.NBA\Chad.NBA.Stats.Updater\obj\Debug\netcoreapp2.0\Chad.NBA.Stats.Updater.AssemblyInfo.cs
+C:\Users\chad\source\repos\Chad.NBA\Chad.NBA.Stats.Updater\obj\Debug\netcoreapp2.0\Chad.NBA.Stats.Updater.dll
+C:\Users\chad\source\repos\Chad.NBA\Chad.NBA.Stats.Updater\obj\Debug\netcoreapp2.0\Chad.NBA.Stats.Updater.pdb

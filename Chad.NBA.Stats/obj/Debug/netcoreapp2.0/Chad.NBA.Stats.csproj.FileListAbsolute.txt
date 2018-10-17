@@ -1,0 +1,9 @@
+C:\Users\chad\source\repos\Chad.NBA\Chad.NBA.Stats\bin\Debug\netcoreapp2.0\Chad.NBA.Stats.deps.json
+C:\Users\chad\source\repos\Chad.NBA\Chad.NBA.Stats\bin\Debug\netcoreapp2.0\Chad.NBA.Stats.dll
+C:\Users\chad\source\repos\Chad.NBA\Chad.NBA.Stats\obj\Debug\netcoreapp2.0\Chad.NBA.Stats.csprojResolveAssemblyReference.cache
+C:\Users\chad\source\repos\Chad.NBA\Chad.NBA.Stats\obj\Debug\netcoreapp2.0\Chad.NBA.Stats.csproj.CoreCompileInputs.cache
+C:\Users\chad\source\repos\Chad.NBA\Chad.NBA.Stats\obj\Debug\netcoreapp2.0\Chad.NBA.Stats.AssemblyInfoInputs.cache
+C:\Users\chad\source\repos\Chad.NBA\Chad.NBA.Stats\obj\Debug\netcoreapp2.0\Chad.NBA.Stats.AssemblyInfo.cs
+C:\Users\chad\source\repos\Chad.NBA\Chad.NBA.Stats\bin\Debug\netcoreapp2.0\Chad.NBA.Stats.pdb
+C:\Users\chad\source\repos\Chad.NBA\Chad.NBA.Stats\obj\Debug\netcoreapp2.0\Chad.NBA.Stats.dll
+C:\Users\chad\source\repos\Chad.NBA\Chad.NBA.Stats\obj\Debug\netcoreapp2.0\Chad.NBA.Stats.pdb
