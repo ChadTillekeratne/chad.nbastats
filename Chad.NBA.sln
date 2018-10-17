@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chad.NBA.Stats", "Chad.NBA.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chad.NBA.Stats.TestConsole", "Chad.NBA.Stats.TestConsole\Chad.NBA.Stats.TestConsole.csproj", "{9F335727-6906-4C66-8BBD-4D92F0947AD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chad.NBA.Stats.Updater", "Chad.NBA.Stats.Updater\Chad.NBA.Stats.Updater.csproj", "{9FCD7D46-288B-411D-8195-1A16DB8C3F37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chad.NBA.Stats.Updater", "Chad.NBA.Stats.Updater\Chad.NBA.Stats.Updater.csproj", "{9FCD7D46-288B-411D-8195-1A16DB8C3F37}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
